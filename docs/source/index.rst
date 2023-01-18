@@ -23,3 +23,7 @@ Contents
    
 Test_contents_2
 --------
+.. toctree::
+
+   usage
+   api
